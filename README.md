@@ -1,8 +1,3 @@
-# there is all countries currency converter here 
- 
-# Create a README.md file with the content provided above
-
-readme_content = """
 # 💱 Real-Time Currency Converter
 
 A Python-based desktop application to convert currencies in real-time using the [ExchangeRate-API](https://www.exchangerate-api.com/). Built with `tkinter` for the graphical user interface.
